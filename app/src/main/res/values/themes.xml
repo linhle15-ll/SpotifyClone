@@ -1,0 +1,12 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.SpotifyClone" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/spotify_green</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/spotify_black_dark</item>
+        <item name="colorSecondaryVariant">@color/spotify_black_light</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>
